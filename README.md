@@ -55,9 +55,9 @@ Lexer's output is a list of form: ```[(lexeme1, TOKEN_LEXEME_1), (lexeme2, TOKEN
             ├── configuration - a configuration file for a simple programming language
     └── test
 	    └── scala
-		    └── prog_tests - folder with source code files in that simple programming language
+		└── prog_tests - folder with source code files in that simple programming language
 			    ...
-			└── scala - folder with tests of every component of this project
+		└── scala - folder with tests of every component of this project
 				...
 ```
 
